@@ -1,2 +1,2 @@
-# shangcheng
-微信商城
+# weixin_app
+微信小程序
